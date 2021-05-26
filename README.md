@@ -3,7 +3,7 @@
 
 KCMTicketFormatter integrates with https://github.com/fireeye/SSSDKCMExtractor. It takes a payload from the output of the tool and converts it to a properly-formatted CCACHE file.
 
-Placeholder for pic
+![usage](https://user-images.githubusercontent.com/18042428/119726092-b5116d00-be3e-11eb-992e-73f3ab76390e.PNG)
 
 ### Requirements:
 
